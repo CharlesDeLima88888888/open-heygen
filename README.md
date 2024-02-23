@@ -1,6 +1,6 @@
 # HeyGen's open source solution
 
-## Thanks for [coqui](https://github.com/coqui-ai/TTS) and [video-retalking](https://github.com/OpenTalker/video-retalking)
+Thanks for [coqui](https://github.com/coqui-ai/TTS) and [video-retalking](https://github.com/OpenTalker/video-retalking)
 
 ### Usage
 
